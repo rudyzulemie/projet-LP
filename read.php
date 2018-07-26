@@ -1,4 +1,4 @@
 <?php
-$f = file_get_contents("http://challenge01.root-me.org/web-serveur/ch13/");
+$f = file_get_contents('./index.php');
 echo $f;
 ?>
